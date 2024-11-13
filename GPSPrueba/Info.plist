@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleName</key>
+    <string>GPSPrueba</string>
+
+    <!-- Permisos de Ubicación -->
+    <key>NSLocationWhenInUseUsageDescription</key>
+    <string>La aplicación necesita acceso a tu ubicación para mostrar rutas hacia la galería de arte.</string>
+    <key>NSLocationAlwaysUsageDescription</key>
+    <string>La aplicación necesita acceso a tu ubicación en todo momento para trazar rutas y mejorar la experiencia.</string>
+
+    <!-- Permiso para la Cámara -->
+    <key>NSCameraUsageDescription</key>
+    <string>La aplicación necesita acceso a la cámara para escanear códigos QR de las pinturas en la galería.</string>
+</dict>
+</plist>
